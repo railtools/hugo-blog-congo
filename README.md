@@ -22,5 +22,3 @@ This is a minimal Hugo static site deployed on [Railway](https://railway.app), u
 - Hugo is installed dynamically using Nixpacks — no manual install or image needed.
 - Caddy serves your production-ready static files from the `public/` folder.
 - The [Congo](https://github.com/jpanther/congo) theme is loaded via Hugo Modules — no need to manage themes manually. Feel free to switch themes.
-
-Read more about the theme [here]()
