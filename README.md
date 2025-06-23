@@ -14,8 +14,7 @@ This is a minimal Hugo static site deployed on [Railway](https://railway.app), u
 
 ## 🚀 Deploy
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/YOUR_TEMPLATE_ID)
-
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/hugo-blog?referralCode=dPr4mc)
 ---
 
 ## 👋 Notes
