@@ -64,7 +64,7 @@ Congo 2.0的一个重大变化是添加了自动图像调整大小的功能。�
 
 {{< screenshot src="lighthouse.jpg" >}}
 
-有太多单独的更改，无法在这里一一突出显示，但结果不言而喻。如果您想深入了解，可以[查看Lighthouse报告](lighthouse.html)。实际的性能将根据服务器配置而有所不同。
+有太多单独的更改，无法在这里一一突出显示，但结果不言而喻。如果您想深入了解，可以[查看Lighthouse报告](/docs/version-2/lighthouse.html)。实际的性能将根据服务器配置而有所不同。
 
 ## 站内搜索
 

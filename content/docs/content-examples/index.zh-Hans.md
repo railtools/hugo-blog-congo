@@ -197,7 +197,7 @@ date: 2022-01-25
 externalUrl: "https://medium.com/"
 summary: "我在 Medium 上写了一篇文章。"
 showReadingTime: false
-_build:
+build:
   render: "false"
   list: "local"
 ---
@@ -205,7 +205,7 @@ _build:
 
 除了正常的前置元数据参数如 `title` 和 `summary` 外，`externalUrl` 参数用于告诉 Congo 这不是一篇普通文章。此处提供的 URL 将是访问者选择该文章时的目标链接。
 
-此外，我们使用了一个特殊的 Hugo 前置元数据参数 `_build` 来阻止生成此内容的正常页面 - 因为我们正在链接到外部 URL，生成正常页面没有意义！
+此外，我们使用了一个特殊的 Hugo 前置元数据参数 `build` 来阻止生成此内容的正常页面 - 因为我们正在链接到外部 URL，生成正常页面没有意义！
 
 主题包含一个原型，使生成这些外部链接文章变得简单。只需在创建新内容时指定 `-k external`。
 
